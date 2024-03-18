@@ -21,7 +21,7 @@ Maze Escape is a text-based game where you navigate through a maze-like grid to 
 - Enter `0` to display the game rules.
 - Use `2`, `4`, `6`, `8` to move the player character: Down, Left, Right, Up respectively.
 - At the end of each level, enter `Y` to progress to the next level or any other key to quit.
-- if you lose strictly before level 5 then you to restart the game from level 1 or in other cases you will get chance to continue game from level 5.
+- If you lose strictly before level 5 then you to restart the game from level 1 or in other cases you will get chance to continue game from level 5.
 
 ## Game Progression
 - The game consists of multiple levels, each with a unique randomly generated maze.
